@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "stylelint.vscode-stylelint",
+      "vscodevim.vim",
+      "coenraads.bracket-pair-colorizer",
+      "oderwat.indent-rainbow",
+      "vscode-icons-team.vscode-icons",
+      "ms-vsliveshare.vsliveshare"
+    ],
+    "unwantedRecommendations": []
+  }
